@@ -1,6 +1,3 @@
-
-### MATLAB Version
-
 # MATLAB Algorithms
 
 ## About
